@@ -1,3 +1,8 @@
+# Atividade 1 - Busca pelo telefone
+
+Objetivo: O objetivo desta atividade é praticar a busca de palavras em texto utilizando expressões regulares no Visual Studio Code.
+
+
 Bem-vindos a uma jornada incrível pelas histórias de 20 pessoas extraordinárias! 
 
 Conheça suas trajetórias, sonhos e conquistas.

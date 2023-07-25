@@ -10,4 +10,4 @@ Repositório criado para armazenar todos os materiais apresentados na Oficina de
 
 1. [Apresentação](./apresentacao)
 2. [Atividades](./atividades)
-3. [Referências](./referencias_e_cursos)
+3. [Referências](./referencias_e_cursos.md)
