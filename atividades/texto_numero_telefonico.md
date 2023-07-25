@@ -1,4 +1,6 @@
-Bem-vindos a uma jornada incrível pelas histórias de 20 pessoas extraordinárias! Conheça suas trajetórias, sonhos e conquistas.
+Bem-vindos a uma jornada incrível pelas histórias de 20 pessoas extraordinárias! 
+
+Conheça suas trajetórias, sonhos e conquistas.
 
 -   João Silva     
     Idade: 25 anos    
