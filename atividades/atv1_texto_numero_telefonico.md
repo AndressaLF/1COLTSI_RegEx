@@ -7,8 +7,8 @@ Bem-vindos a uma jornada incrível pelas histórias de 20 pessoas extraordinári
 
 Conheça suas trajetórias, sonhos e conquistas.
 
--   João Silva     
-    Idade: 25 anos    
+-   João Silvaa     
+    Idade: 25 aaanos    
     Profissão: Engenheiro Civil    
     E-mail: joao.silva@example.com   
     Telefone: 11-98765-4321   
@@ -126,21 +126,4 @@ Conheça suas trajetórias, sonhos e conquistas.
     Profissão: Psicólogo                 
     E-mail: lucas.ribeiro@example.com                 
     Telefone: 22-98765-0000            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,4 +1,4 @@
-# Atividade 2 - Validação de Email
+# Atividade 5 - Validação de Email
 
 Objetivo: O objetivo desta atividade é praticar a criação de expressões regulares para validar endereços de e-mail.
 
@@ -8,7 +8,7 @@ Para um e-mail ser valido é necessário seguir as premissas abaixo:
 3. O nome de usuário não pode começar ou terminar com um ponto (.), hífen (-) ou underscore (_).
 4. O domínio (parte após o "@") deve conter apenas letras (maiúsculas e minúsculas), dígitos numéricos e pontos (.).
 5. O domínio não pode começar ou terminar com um ponto (.).
-6. O domínio deve ter pelo menos um ponto (.), e o último segmento após o último ponto deve ter no mínimo dois caracteres (por exemplo, ".com" ou ".net").
+6. O domínio deve ter pelo menos um ponto (.), e o último segmento após o último ponto deve ter no mínimo dois caracteres (por exemplo, ".com", ".net" ou "uk").
 
 ## Lista de Emails para validação
 
@@ -29,7 +29,6 @@ support@domain.com
 user@.com           
 jennifer12@example.co.uk            
 @example           
-user@example.com.           
 contact.us@example.com            
 jane@.com           
 admin@company.net           
