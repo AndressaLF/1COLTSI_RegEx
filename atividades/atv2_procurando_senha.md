@@ -11,19 +11,19 @@ As senhas corretas devem atender às seguintes regras:
 "Para acessar diferentes sistemas, é necessário utilizar senhas seguras. 
 Abaixo estão algumas senhas que atendem aos requisitos de segurança:
 
-A1234568
-B654321
-C987654A
-A123456D
-ABC123456
-XYZ123456A
-ZZZ999999
-A654321
-123456A
-AAA111111
-DEF123456
-A6689554452
-XDGS3456
+A1234568          
+B654321           
+C987654A           
+A123456D           
+ABC123456              
+XYZ123456A                 
+ZZZ999999       
+A654321                   
+123456A          
+AAA111111             
+DEF123456             
+A6689554452          
+XDGS3456           
 
 Essas senhas foram criadas seguindo as melhores práticas de segurança, com uma combinação de letras e números. 
 É importante utilizar senhas fortes para proteger nossos dados e informações pessoais.Além disso, é recomendado alterar as senhas regularmente e não compartilhá-las com outras pessoas. A segurança de nossas contas e informações depende da escolha de senhas sólidas e únicas.

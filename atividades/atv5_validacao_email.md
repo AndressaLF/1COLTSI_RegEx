@@ -12,33 +12,33 @@ Para um e-mail ser valido é necessário seguir as premissas abaixo:
 
 ## Lista de Emails para validação
 
-john.doe@example.com       
-jane@company          
-user123@example.com           
-@example.com          
-johndoe@1234           
-mary.smith@example.com            
-user@company.com.            
-contact@company.com                   
-john.doe@.com            
-info@website.org            
-user@company..com             
-sales@business.com           
-jane.doe@company.           
-support@domain.com             
-user@.com           
-jennifer12@example.co.uk            
-@example           
-contact.us@example.com            
-jane@.com           
-admin@company.net           
-user@example.            
-testuser@example.com             
-jane.doe@company           
-sales@company.net                 
-contact@website           
-user@company.net        
-john.doe@company.       
+john.doe@example.com           
+jane@company            
+user123@example.com             
+@example.com            
+johndoe@1234      
+mary.smith@example.com          
+user@company.com.              
+contact@company.com             
+john.doe@.com                 
+info@website.org              
+user@company..com       
+sales@business.com   
+jane.doe@company.          
+support@domain.com            
+user@.com                    
+jennifer12@example.co.uk                  
+@example                      
+contact.us@example.com     
+jane@.com            
+admin@company.net            
+user@example.        
+testuser@example.com            
+jane.doe@company            
+sales@company.net           
+contact@website          
+user@company.net           
+john.doe@company.         
 
 
 
